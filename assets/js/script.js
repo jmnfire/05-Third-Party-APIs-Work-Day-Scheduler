@@ -3,7 +3,7 @@ $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
 var time = moment();
 var hour = moment().hours();
 
-var clearEl = $('#clear');
+// var clearEl = $('#clear');
 
 function startSchedule() {
     $(".time-block").each(function () {
@@ -36,6 +36,11 @@ function colorBlock() {
             $(this).addClass("past");
         }
 
+    });
+
+    clear.addEventListener('click', function() {
+        localStorage.clear();
+        location.reload();
     });
 
 }

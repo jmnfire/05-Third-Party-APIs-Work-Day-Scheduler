@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a simple calendar application that allows the user to save events for each hour of the day.
+This is a simple calendar application that allows the user to save events for each hour of a work day from 9am to 5pm.
 
 
 
@@ -33,7 +33,7 @@ NO installation required you can view the page. If you want to look at my code, 
 
 ## Usage
 
-![screenshot](assets/images/screencapture-file-Users-JovanNixon-Desktop-Homework-05-Third-Party-APIs-Work-Day-Scheduler-index-html-2021-03-16-22_36_57.png)
+![screenshot](assets/images/screencapture-file-Users-JovanNixon-Desktop-Homework-05-Third-Party-APIs-Work-Day-Scheduler-index-html-2021-03-17-17_56_35.png)
 
 
 ## License 
